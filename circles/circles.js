@@ -1,7 +1,7 @@
 var cnv = document.getElementById("cnv"); //Canvas choosing
 var context = cnv.getContext("2d"); //Context declaration
 
-function deg_rad(x) //From fegrees to radians
+function deg_rad(x) //From degrees to radians
 {
 	return x*(Math.PI/180) //Because π radians = 180 degrees
 }
