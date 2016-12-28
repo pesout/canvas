@@ -1,0 +1,23 @@
+<html>
+<head>
+	<meta http-equiv="Content-Language" content="en">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Circles</title>
+</head>
+
+
+<body>
+<form name="fo" onsubmit="return false">
+Number of circles: <input type="text" size="8" name="n">
+Main circle radius: <input type="text" size="8" name="r_obj">
+Every single circle radius: <input type="text" size="8" name="r_circ">
+<input type="submit" value="Draw" onclick="draw(document.fo.n.value, document.fo.r_obj.value, document.fo.r_circ.value);">
+<input type="submit" value="Delete" onclick="del();">
+</form>
+
+
+<canvas width="1000" height="700" id="cnv"></canvas> <!--Canvas and it's size declaration-->
+
+<script src="kresleni.js"></script> <!--External script-->
+</body>
+</html>
