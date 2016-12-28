@@ -1,7 +1,7 @@
 ## Canvas > Circles
 
 ### Check out the result
-[explanation](https://http://rawgit.com/pesout/canvas/master/circles/index.html)
+[http://rawgit.com/pesout/canvas/master/circles/index.html](https://http://rawgit.com/pesout/canvas/master/circles/index.html)
 
 
 ### How it works
