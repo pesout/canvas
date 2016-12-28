@@ -1,7 +1,8 @@
 ## Canvas > Circles
 
-### How it works
-![explanation](http://raw.githubusercontent.com/pesout/canvas/master/circles/explanation.png)
+#### How it works
+
+![explanation](https://raw.githubusercontent.com/pesout/canvas/master/circles/explanation.png)
 
 #### We know
 - Size of alpha (from cycle)
