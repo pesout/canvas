@@ -4,4 +4,4 @@
 
 
 ------
-- See also: [Canvas functions list](http://www.w3schools.com/tags/ref_canvas.asp) on W3Schools
+- Check out also: [Canvas functions list](http://www.w3schools.com/tags/ref_canvas.asp) on W3Schools
